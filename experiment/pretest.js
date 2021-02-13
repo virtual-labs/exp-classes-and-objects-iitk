@@ -90,9 +90,9 @@
 
   const myQuestions = [
     {
-      question: "What is Instantiation?"
-str1[3]= 's'
-print(str1)
+      question: "What is Instantiation?\
+str1[3]= 's'\
+print(str1)\
 ? ",  
 ///// Write the question inside double quotes
       answers: {
@@ -105,8 +105,7 @@ print(str1)
     },
 
 {
-  question: "Class instantiation uses:
- ",
+  question: "Class instantiation uses:",
    ///// Write the question inside double quotes
   answers: {
   a: "Object notation ",                  ///// Write the option 1 inside double quotes
@@ -119,7 +118,7 @@ correctAnswer: "b"                ///// Write the correct option inside double q
 ///// this line
 
 {
-  question: "Special methods need to be explicitly called
+  question: "Special methods need to be explicitly called\
   during object creation.",
   answers: {
     a: "True",
@@ -143,8 +142,7 @@ correctAnswer: "b"                ///// Write the correct option inside double q
   correctAnswer: "a"
 },
 {
-  question: " Classes are used to _______which have functions and variables.
-  ",
+  question: " Classes are used to _______which have functions and variables.",
   answers: {
     a: "Create objects",
       b: "Create functions",
@@ -154,7 +152,7 @@ correctAnswer: "b"                ///// Write the correct option inside double q
   correctAnswer: "a"
 },
 
-;
+  ];
 
 
 

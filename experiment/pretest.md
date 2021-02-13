@@ -1,8 +1,7 @@
 ### Pre Test
 
 1. "What is Instantiation?"
-
- <br>
+                        <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;Modifying an instance of class
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;Copying an instance of class
@@ -26,8 +25,8 @@
                         <p id = "p2"></p>
                         <br>
  
- 3.  "Special methods need to be explicitly called
-during object creation."
+ 3. "Special methods need to be explicitly called
+     during object creation."
                         <br>
                         A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp;True
                         <br>
@@ -37,21 +36,21 @@ during object creation."
                         <p id = "p4"></p>
                         <br>
 4."Which of the following keywords is used in the
-begining of class definition?"
-<br>
+   begining of class definition?"
+                        <br>
                         A. <input type="radio" name="but3" id="rb31" onclick="click3();">&nbsp;class
                         <br>
                         B. <input type="radio" name="but3" id="rb32" onclick="click3();">&nbsp;return
                         <br>
                         C. <input type="radio" name="but3" id="rb33" onclick="click3();">&nbsp;def
- <br>
+                        <br>
                         D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;All of the above.
                          <br><br>
                         <p id = "p3"></p>
                         <br>
 5. Classes are used to _______which have functions
-and variables.
- <br>
+   and variables.
+                        <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;Create objects
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;Create functions
@@ -59,7 +58,7 @@ and variables.
                         C.<input type="radio" name="but" id="rb13" onclick="click1();">&nbsp;Create variables
                         <br>
                         D.<input type="radio" name="but" id="rb14" onclick="click1();">&nbsp;Create constructors
-
                         <br>
                         <p id = "p1"></p>
                         <br>
+

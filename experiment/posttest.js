@@ -90,8 +90,7 @@
 
   const myQuestions = [
     {
-      question: "A class is instantiated by:
-      ", 
+      question: "A class is instantiated by:", 
  ///// Write the question inside double quotes
       answers: {
       a: "Calling the class object",                  ///// Write the option 1 inside double quotes
@@ -106,8 +105,7 @@
   question: "Which among the following is not a class method?",
   ///// Write the question inside double quotes
   answers: {
-    a: "Static
-  ",
+    a: "Static",
   ///// Write the option 1 inside double quotes
   b: "Non-static",                  ///// Write the option 2 inside double quotes
     c: "Unvounded",                  ///// Write the option 3 inside double quotes
@@ -118,8 +116,7 @@
 ///// this line
 
 {
-  question: "For declaration a = Employee(), which of the following statement is correct.
-",
+  question: "For declaration a = Employee(), which of the following statement is correct.",
 answers: {
   a: "You can assign an int value to a. ",
     b: "contains an int value ",
@@ -136,7 +133,7 @@ correctAnswer: "c"
       b: "Functions",
         c: "Methods",
           d: "Constructors"
-    "
+    
   },
   correctAnswer: "a"
 },
