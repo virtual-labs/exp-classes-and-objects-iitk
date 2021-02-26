@@ -108,7 +108,7 @@
     a: "Static",
   ///// Write the option 1 inside double quotes
   b: "Non-static",                  ///// Write the option 2 inside double quotes
-    c: "Unvounded",                  ///// Write the option 3 inside double quotes
+    c: "Unbounded",                  ///// Write the option 3 inside double quotes
     d: "Bounded"                   ///// Write the option 4 inside double quotes
   },
   correctAnswer: "b"                ///// Write the correct option inside double quotes
