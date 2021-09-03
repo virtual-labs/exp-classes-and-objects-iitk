@@ -21,26 +21,26 @@ Output<br><br>
 graduate<br>
 I'm a graduate<br>
 I'm a student<br><br>
-<b>The self</b>
+<b>The self method</b><br><br>
 Class methods must have an extra first parameter in the method definition. We do not give a value for this parameter when we call the method, Python provides it.<br>
 If we have a method that takes no arguments, then we still have to have one argument.<br>
 When we call a method of this object as myobject.method(arg1, arg2), this is automatically converted by Python into MyClass.method(myobject, arg1, arg2)<br><br>
-__init__ method<br>
-The __init__ method is similar to constructors in C++ and Java. Constructors are used to initializing the object’s state. It runs as soon as an object of a class is instantiated. The method is useful to do any initialization you want to do with your object.<br><br>
+<b>init method</b><br><br>
+The init  method is similar to constructors in C++ and Java. Constructors are used to initializing the object’s state. It runs as soon as an object of a class is instantiated. The method is useful to do any initialization you want to do with your object.<br><br>
 Program<br><br>
-<img src="images/img4.PNG">
+<img src="images/img3.PNG"><br><br>
 Output<br><br>
 Hello, my name is John<br><br>
-Class and Instance Variables:<br><br>
+<b>Class and Instance Variables:</b><br><br>
 Class variables is a variable that is shared by all instances of a class. They are defined within a class but outside any of the class's methods.<br><br>
 Instance Variable is a variable that is defined inside a method and belongs only to the current instance of a class.<br><br>
 Program<br><br>
-<img src="images/img5.PNG"><br><br>
+<img src="images/img4.PNG"><br><br>
 Output<br><br>
 myobj1 details:<br>
 myobj1 is a student<br>
-Breed:  Harry<br>
-Color:  Physics<br>
+name:  Harry<br>
+subject: Physics<br>
 
 Accessing class variable using class name<br>
 student<br>
