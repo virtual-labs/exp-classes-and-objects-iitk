@@ -1,16 +1,37 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "A class is instantiated by:",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "Calling the class object",
+		"b": "Creating the class object",
+		"c": "Declaring the class",
+		"d": "None of the mentioned,"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "Which among the following is not a class method?",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "Static",
+		"b": "Non-static",
+		"c": "Unbounded",
+		"d": "Bounded"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "For declaration a = Employee(), which of the following statement is correct.",
+	"answers": {
+		"a": "You can assign an int value to a. ",
+		"b": "contains an int value ",
+		"c": "contains a reference to a Circle object",
+		"d": "  contains an object of the Circle type. "
 	},
 	"correctAnswer": "c"
+}, {
+	"question": "Every class in Python is derived from the class ",
+	"answers": {
+		"a": "Object",
+		"b": "Functions",
+		"c": "Methods",
+		"d": "Constructors"
+	},
+	"correctAnswer": "a"
 }]
