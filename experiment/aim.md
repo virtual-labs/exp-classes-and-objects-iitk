@@ -1,1 +1,1 @@
- In this experiment Student will learn the concept of class and object.
+ In this experiment Student will learn the concept of class and object
