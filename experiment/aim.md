@@ -1,1 +1,1 @@
- In this experiment you will perform specific functions.
+ In this experiment Student will learn the concept of class and object.
