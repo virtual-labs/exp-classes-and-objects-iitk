@@ -1,8 +1,7 @@
- <h4>Steps of simulator </h4><br>
-                        1.&nbsp;Read the Simulator details.<br>
-                        2.&nbsp;Enter the desired input.<br>
-                        4.&nbsp; Press CALCULATE to proceed. <br>
-                        5.&nbsp;The code will be displayed <br>
-                        6.&nbsp;Press NEXT to see the execution of code. <br>
-                        7.&nbsp;Relevant line in the code will be highlighted.<br>
-                        8.&nbsp;The local variables will be shown in the Output Panel with their values.<br>
+1. Read the simulator details.
+2. Enter the input values.
+3. Press CALCULATE to proceed.
+4. A code will be displayed.
+5. Press NEXT to see the execution of the code.
+6. Relevant line in the code will be highlighted.
+7. The value of the objects will be displayed in the output panel.
