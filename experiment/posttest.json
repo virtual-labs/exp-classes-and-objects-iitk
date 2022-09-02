@@ -1,12 +1,12 @@
 [{
-	"question": "A class is instantiated by:",
+	"question": "_is used to create an object:",
 	"answers": {
-		"a": "Calling the class object",
-		"b": "Creating the class object",
-		"c": "Declaring the class",
-		"d": "None of the mentioned,"
+		"a": "class",
+		"b": "constructor",
+		"c": "User-defined functions",
+		"d": "In-built functions"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
 	"question": "Which among the following is not a class method?",
 	"answers": {
@@ -17,12 +17,12 @@
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "For declaration a = Employee(), which of the following statement is correct.",
+	"question": "<img src='images/post_q.png'.",
 	"answers": {
-		"a": "You can assign an int value to a. ",
-		"b": "contains an int value ",
-		"c": "contains a reference to a Circle object",
-		"d": "  contains an object of the Circle type. "
+		"a": "Error because function change can’t be called in the __init__ function",
+		"b": "‘New’ is printed",
+		"c": "‘Old’ is printed",
+		"d": "Nothing is printed"
 	},
 	"correctAnswer": "c"
 }, {
