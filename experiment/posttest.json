@@ -17,7 +17,7 @@
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "<img src='images/post_q.png'.",
+	"question": "<img src='images/post_q.PNG'.",
 	"answers": {
 		"a": "Error because function change can’t be called in the __init__ function",
 		"b": "‘New’ is printed",
