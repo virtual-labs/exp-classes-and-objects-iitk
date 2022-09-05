@@ -1,0 +1,44 @@
+[{
+	"question": "What is Instantiation? ",
+	"answers": {
+		"a": "Modifying an instance of class",
+		"b": "Copying an instance of class",
+		"c": "Creating an instance of class",
+		"d": "Deleting an instance of class"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Class instantiation uses:",
+	"answers": {
+		"a": "Object notation ",
+		"b": "Function notation",
+		"c": "Class notation",
+		"d": "None of the mentioned"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Special methods need to be explicitly called  during object creation.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Which of the following keywords is used in the beginning of class definition?",
+	"answers": {
+		"a": "class",
+		"b": "return",
+		"c": "def",
+		"d": "All of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": " Classes are used to _______which have functions and variables.",
+	"answers": {
+		"a": "Create objects",
+		"b": "Create functions",
+		"c": "Create variables",
+		"d": "Create constructors"
+	},
+	"correctAnswer": "a"
+}]

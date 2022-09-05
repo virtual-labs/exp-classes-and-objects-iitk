@@ -1,0 +1,37 @@
+[{
+	"question": "_is used to create an object:",
+	"answers": {
+		"a": "class",
+		"b": "constructor",
+		"c": "User-defined functions",
+		"d": "In-built functions"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Which among the following is not a class method?",
+	"answers": {
+		"a": "Static",
+		"b": "Non-static",
+		"c": "Unbounded",
+		"d": "Bounded"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "<img src='images/post_q.PNG'.",
+	"answers": {
+		"a": "Error because function change can’t be called in the __init__ function",
+		"b": "‘New’ is printed",
+		"c": "‘Old’ is printed",
+		"d": "Nothing is printed"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Every class in Python is derived from the class ",
+	"answers": {
+		"a": "Object",
+		"b": "Functions",
+		"c": "Methods",
+		"d": "Constructors"
+	},
+	"correctAnswer": "a"
+}]
