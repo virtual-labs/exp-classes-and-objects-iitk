@@ -15,7 +15,7 @@
 		"c": "Unbounded",
 		"d": "Bounded"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "c"
 }, {
 	"question": "<img src='images/post_q.PNG'.",
 	"answers": {
